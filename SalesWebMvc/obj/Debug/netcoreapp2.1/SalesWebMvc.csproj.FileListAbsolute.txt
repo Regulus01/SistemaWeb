@@ -38,5 +38,4 @@ G:\Outros computadores\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\ob
 G:\Outros computadores\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
 G:\Outros computadores\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 G:\Outros computadores\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
-G:\Outros computadores\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
-G:\Outros computadores\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\View.cshtml.g.cs
+G:\Outros computadores\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
