@@ -39,3 +39,58 @@ G:\Outros computadores\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\ob
 G:\Outros computadores\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 G:\Outros computadores\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
 G:\Outros computadores\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Users\jsous\Documents\Curso C#\SistemaWeb (1)\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
+C:\Users\jsous\Documents\Curso C#\SistemaWeb (1)\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsous\Documents\Curso C#\SistemaWeb (1)\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
+C:\Users\jsous\Documents\Curso C#\SistemaWeb (1)\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
+C:\Users\jsous\Documents\Curso C#\SistemaWeb (1)\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
+C:\Users\jsous\Documents\Curso C#\SistemaWeb (1)\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cache
+C:\Users\jsous\Documents\Curso C#\SistemaWeb (1)\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cs
+C:\Users\jsous\Documents\Curso C#\SistemaWeb (1)\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.TagHelpers.input.cache
+C:\Users\jsous\Documents\Curso C#\SistemaWeb (1)\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.TagHelpers.output.cache
+C:\Users\jsous\Documents\Curso C#\SistemaWeb (1)\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorCoreGenerate.cache
+C:\Users\jsous\Documents\Curso C#\SistemaWeb (1)\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.dll
+C:\Users\jsous\Documents\Curso C#\SistemaWeb (1)\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.GeneratedMSBuildEditorConfig.editorconfig
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cache
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.TagHelpers.input.cache
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.TagHelpers.output.cache
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorCoreGenerate.cache
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorTargetAssemblyInfo.cache
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorTargetAssemblyInfo.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.dll
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\appsettings.Development.json
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\appsettings.json
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.deps.json
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.runtimeconfig.json
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.runtimeconfig.dev.json
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.dll
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.pdb
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.dll
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs

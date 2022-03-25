@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Outros computadores\\Meu laptop\\Curso C#\\SistemaWeb\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {}
+    "G:\\Other computers\\Meu laptop\\Curso C#\\SistemaWeb\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {}
   },
   "projects": {
-    "G:\\Outros computadores\\Meu laptop\\Curso C#\\SistemaWeb\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {
+    "G:\\Other computers\\Meu laptop\\Curso C#\\SistemaWeb\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Outros computadores\\Meu laptop\\Curso C#\\SistemaWeb\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectUniqueName": "G:\\Other computers\\Meu laptop\\Curso C#\\SistemaWeb\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
         "projectName": "SalesWebMvc",
-        "projectPath": "G:\\Outros computadores\\Meu laptop\\Curso C#\\SistemaWeb\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectPath": "G:\\Other computers\\Meu laptop\\Curso C#\\SistemaWeb\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
         "packagesPath": "C:\\Users\\jsous\\.nuget\\packages\\",
-        "outputPath": "G:\\Outros computadores\\Meu laptop\\Curso C#\\SistemaWeb\\SalesWebMvc\\SalesWebMvc\\obj\\",
+        "outputPath": "G:\\Other computers\\Meu laptop\\Curso C#\\SistemaWeb\\SalesWebMvc\\SalesWebMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
