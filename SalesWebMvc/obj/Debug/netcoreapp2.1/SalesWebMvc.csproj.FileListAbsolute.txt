@@ -94,3 +94,6 @@ G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\De
 G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
