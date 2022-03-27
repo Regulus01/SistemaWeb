@@ -51,7 +51,6 @@ C:\Users\jsous\Documents\Curso C#\SistemaWeb (1)\SalesWebMvc\SalesWebMvc\obj\Deb
 C:\Users\jsous\Documents\Curso C#\SistemaWeb (1)\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorCoreGenerate.cache
 C:\Users\jsous\Documents\Curso C#\SistemaWeb (1)\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.dll
 C:\Users\jsous\Documents\Curso C#\SistemaWeb (1)\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
-G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
 G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.GeneratedMSBuildEditorConfig.editorconfig
 G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
 G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
@@ -143,3 +142,7 @@ D:\Aréa de Trabalho\fora\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.dll
 D:\Aréa de Trabalho\fora\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 D:\Aréa de Trabalho\fora\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 D:\Aréa de Trabalho\fora\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
+G:\Other computers\Meu laptop\Curso C#\SistemaWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
