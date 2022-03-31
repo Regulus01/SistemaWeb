@@ -22,11 +22,11 @@
 <td>ASP .NET Core MVC </td>
 <td>Entity</td> 
 <td>.net core</td>
-<td>MySql</td>
+<td>Sql Server</td>
    <tr>
   <td> * </td>
   <td> * </td>
   <td> 2.1 </td>
-  <td> 8.8 </td>
+  <td> * </td>
     </tr> 
 </table>
