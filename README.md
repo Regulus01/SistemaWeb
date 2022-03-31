@@ -24,8 +24,8 @@
 <td>.net core</td>
 <td>Sql Server</td>
    <tr>
-  <td> * </td>
-  <td> * </td>
+  <td> 2.1 </td>
+  <td> 2.1 </td>
   <td> 2.1 </td>
   <td> * </td>
     </tr> 
